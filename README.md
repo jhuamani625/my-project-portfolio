@@ -6,7 +6,7 @@
 
 Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
 
-**Description**
+**Description:** hello
 
 ## Rutgers Univsersity: Data Visualization Capstone Project 2021
 
@@ -14,7 +14,7 @@ Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
 
 By John Huamani
 
-**Description**
+**Description:**
 
 ## Rutgers University: Putting the K in the K-Nearest Neighbors 2021
 
@@ -22,4 +22,4 @@ By John Huamani
 
 By CHRISTIAN PADILLA, JOHN HUAMANI, DUSTIN HAN, and YANXU PAN
 
-**Description**
+**Description:**
