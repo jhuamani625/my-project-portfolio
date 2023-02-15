@@ -1,14 +1,13 @@
 # John Huamani's Project Portfolio
 
-## Correlation One: Data Analytics Capstone Project
+## [Correlation One: Data Analytics Capstone Project](https://onedrive.live.com/view.aspx?resid=8EB175E0688D467B!39298&ithint=file%2cdocx&authkey=!ACg8Q3WAHzBPOt8)
 
 **EPA Greenhouse Gas Emission Regulation from Automotive Sector**
 
-*May - August 2022*
-
 Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
 
-[Project 1](https://onedrive.live.com/view.aspx?resid=8EB175E0688D467B!39298&ithint=file%2cdocx&authkey=!ACg8Q3WAHzBPOt8)
+*May - August 2022*
+
 - b2
 - b3
 - bn
