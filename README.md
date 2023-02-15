@@ -1,6 +1,6 @@
 # John Huamani's Project Portfolio
 
-## Data Analytics Capstone Project
+## Correlation One: Data Analytics Capstone Project
 
 **EPA Greenhouse Gas Emission Regulation from Automotive Sector**
 
