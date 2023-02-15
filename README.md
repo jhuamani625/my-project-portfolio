@@ -8,7 +8,10 @@
 
 Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
 
-**Description:** 
+- Bullet point 1
+- b2
+- b3
+- bn
 
 ## Rutgers Univsersity: Data Visualization Capstone Project 2021
 
