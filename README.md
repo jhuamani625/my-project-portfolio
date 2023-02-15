@@ -1,18 +1,18 @@
 # John Huamani's Project Portfolio
 
-## Correlation One: Data Analytics Capstone Project
+## Correlation One: Data Analytics Capstone Project 2022
 
 **EPA Greenhouse Gas Emission Regulation from Automotive Sector**
 
 Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
 
-## Rutgers Univsersity: Data Visualization Capstone Project
+## Rutgers Univsersity: Data Visualization Capstone Project 2021
 
 **Accidental Drug Related Deaths 2012-2018**
 
 By John Huamani
 
-## Rutgers University: Putting the K in the K-Nearest Neighbors
+## Rutgers University: Putting the K in the K-Nearest Neighbors 2021
 
 **Wisconsin Breast Cancer Dataset**
 
