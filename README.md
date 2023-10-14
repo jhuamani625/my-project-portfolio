@@ -1,33 +1,32 @@
-# John Huamani's Project Portfolio
+# Hello, I'm John Huamani, a Data Science Enthusiast and Graduate Student! 👋
 
-## [Correlation One: Data Analytics Capstone Project](https://onedrive.live.com/view.aspx?resid=8EB175E0688D467B!39298&ithint=file%2cdocx&authkey=!ACg8Q3WAHzBPOt8)
+## 🎓 About Me
+- 📚 I'm currently pursuing a masters degree in Data Science at Stevens Instuitute of Technology
+- 💼 Passionate about data analysis, machine learning, and contributing to open-source projects
+- 🧐 Interested in developing machine learning models for predictive analytics, exploring deep learning applications in image recognition, and utilizing big data technologies to analyze and interpret large datasets
+- 📫 Reach me at: jhuamani.business@gmail.com, linkedin.com/in/johnhuamani
 
-**EPA Greenhouse Gas Emission Regulation from Automotive Sector**
+## 🔧 Technologies & Tools
 
-Team 148: DAVID NUNES, JOHN HUAMANI, MOHAMMED JEMAL, TODD INOUE, VLADMIR KALIK
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+<!-- Add more badges from https://shields.io/ -->
 
-*May - August 2022*
+## 💼 Academic Projects
 
-- b2
-- b3
-- bn
+### https://docs.google.com/presentation/d/1RTLvtB0I0Dpe9kDgyLTna6T7mtXXBcdkwo8T0Mb-xp8/edit?usp=sharing
+- **Description:** DIVERSITY IN ACADEMIC ACHIEVEMENT: INSIGHTS GAINED TRHOUGH MULTIPLE COMPARISON TEST
+- **Tools & Technologies:** R Programming, RStudio
 
-## Rutgers Univsersity: Data Visualization Capstone Project 2021
+### https://docs.google.com/presentation/d/1GOB80b4qk2-zLYMPgvgaRGYNlCiuRtc2xWGBDU1K3u8/edit?usp=sharing
+- **Description:** BREAST CANCER PREDICTION USING K-NN CLASSIFICATION
+- **Tools & Technologies:** R Programming, RStudio
 
-**Accidental Drug Related Deaths 2012-2018**
+## 🏫 Education
+- **Degree in Progress, Data Science, Stevens Instuitute of Technology, May 2026**
+- **Courses Enrolled as of now:** Fundamentals Mathematics for Data Science & Applied Machine Learning
 
-*March - April 2021*
+- **Bachelors of Arts, Information Technology & Informatics, Rutgers University, May 2021**
+- **Courses Enrolled:** Information Technology, Regression Methods, Application Statistics
 
-By John Huamani
-
-**Description:**
-
-## Rutgers University: Putting the K in the K-Nearest Neighbors 2021
-
-**Wisconsin Breast Cancer Dataset**
-
-*November - Decemeber 2020*
-
-By CHRISTIAN PADILLA, JOHN HUAMANI, DUSTIN HAN, and YANXU PAN
-
-**Description:**
