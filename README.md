@@ -16,7 +16,7 @@
 ## 💼 Academic Projects
 
 ### https://docs.google.com/presentation/d/1RTLvtB0I0Dpe9kDgyLTna6T7mtXXBcdkwo8T0Mb-xp8/edit?usp=sharing
-- **Description:** DIVERSITY IN ACADEMIC ACHIEVEMENT: INSIGHTS GAINED TRHOUGH MULTIPLE COMPARISON TEST
+- **Description:** DIVERSITY IN ACADEMIC ACHIEVEMENT: INSIGHTS GAINED THROUGH MULTIPLE COMPARISON TEST
 - **Tools & Technologies:** R Programming, RStudio
 
 ### https://docs.google.com/presentation/d/1GOB80b4qk2-zLYMPgvgaRGYNlCiuRtc2xWGBDU1K3u8/edit?usp=sharing
