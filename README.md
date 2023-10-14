@@ -28,5 +28,5 @@
 - **Courses Enrolled as of now:** Fundamentals Mathematics for Data Science & Applied Machine Learning
 
 - **Bachelors of Arts, Information Technology & Informatics, Rutgers University, May 2021**
-- **Courses Enrolled:** Information Technology, Regression Methods, Application Statistics
+- **Relevant Courses:** Regression Methods, Application Statistics, Intro to Computer Concepts, Information Technology
 
